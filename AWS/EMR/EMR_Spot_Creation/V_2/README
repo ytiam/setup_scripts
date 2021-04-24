@@ -1,0 +1,3 @@
+Run the script emr_creation.sh and follow the interactive commands to give your input to create preferred cluster.
+
+command: bash emr_creation.sh
